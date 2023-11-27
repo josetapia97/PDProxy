@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\bin\Debug\net6.0\ProxyBankAccount.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\bin\Debug\net6.0\ProxyBankAccount.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\bin\Debug\net6.0\ProxyBankAccount.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\bin\Debug\net6.0\ProxyBankAccount.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\bin\Debug\net6.0\ProxyBankAccount.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\obj\Debug\net6.0\ProxyBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\obj\Debug\net6.0\ProxyBankAccount.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\obj\Debug\net6.0\ProxyBankAccount.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\obj\Debug\net6.0\ProxyBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\obj\Debug\net6.0\ProxyBankAccount.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\obj\Debug\net6.0\refint\ProxyBankAccount.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\obj\Debug\net6.0\ProxyBankAccount.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\obj\Debug\net6.0\ProxyBankAccount.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyBankAccount\obj\Debug\net6.0\ref\ProxyBankAccount.dll
