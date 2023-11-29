@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyBankAccount", "ProxyBankAccount\ProxyBankAccount.csproj", "{995EB4AE-604E-4174-BD3B-05D124E72EA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyBankAccount", "ProxyBankAccount\ProxyBankAccount.csproj", "{995EB4AE-604E-4174-BD3B-05D124E72EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyVideoSurveillance", "ProxyVideoSurveillance\ProxyVideoSurveillance.csproj", "{C43ECA35-0D7B-436C-B687-AF1CD69A0B4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{995EB4AE-604E-4174-BD3B-05D124E72EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{995EB4AE-604E-4174-BD3B-05D124E72EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{995EB4AE-604E-4174-BD3B-05D124E72EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43ECA35-0D7B-436C-B687-AF1CD69A0B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43ECA35-0D7B-436C-B687-AF1CD69A0B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43ECA35-0D7B-436C-B687-AF1CD69A0B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43ECA35-0D7B-436C-B687-AF1CD69A0B4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

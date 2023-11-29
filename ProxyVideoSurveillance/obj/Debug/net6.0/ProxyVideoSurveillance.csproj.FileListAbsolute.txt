@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\bin\Debug\net6.0\ProxyVideoSurveillance.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\bin\Debug\net6.0\ProxyVideoSurveillance.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\bin\Debug\net6.0\ProxyVideoSurveillance.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\bin\Debug\net6.0\ProxyVideoSurveillance.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\bin\Debug\net6.0\ProxyVideoSurveillance.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\obj\Debug\net6.0\ProxyVideoSurveillance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\obj\Debug\net6.0\ProxyVideoSurveillance.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\obj\Debug\net6.0\ProxyVideoSurveillance.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\obj\Debug\net6.0\ProxyVideoSurveillance.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\obj\Debug\net6.0\ProxyVideoSurveillance.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\obj\Debug\net6.0\refint\ProxyVideoSurveillance.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\obj\Debug\net6.0\ProxyVideoSurveillance.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\obj\Debug\net6.0\ProxyVideoSurveillance.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Proxy\ProxyVideoSurveillance\obj\Debug\net6.0\ref\ProxyVideoSurveillance.dll
